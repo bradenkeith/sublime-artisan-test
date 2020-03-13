@@ -1,6 +1,6 @@
 # Sublime Artisan Test
 
-This package extend [Sublime PHPUnit](https://github.com/adamwathan/sublime-phpunit) and its installation is required for this package to be functional.
+This package extends [Sublime PHPUnit](https://github.com/adamwathan/sublime-phpunit) and its installation is required for this package to be functional.
 
 ## Installation
 
