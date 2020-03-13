@@ -12,7 +12,7 @@ git clone https://github.com/bradenkeith/sublime-artisan-test ~/Library/Applicat
 
 ## Available Commands & Example Keybindings
 
-You can find the commands in the command palette under "Sublime PHPUnit", or map any of these commands to whatever shortcuts you want:
+You can find the commands in the command palette under "Artisan Test", or map any of these commands to whatever shortcuts you want:
 
 Here's the full list of commands:
 
