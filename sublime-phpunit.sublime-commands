@@ -1,0 +1,6 @@
+[
+    { "caption": "Artisan Test: Run This File", "command": "run_artisan_test" },
+    { "caption": "Artisan Test: Run This Directory", "command": "run_artisan_tests_in_dir" },
+    { "caption": "Artisan Test: Run This Test Method", "command": "run_single_artisan_test" },
+    { "caption": "Artisan Test: Run All Tests", "command": "run_all_artisan_tests" },
+]
